@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-compile '404.adoc' do
+compile '/404.adoc' do
   filter :asciidoctor, { attributes: "showtitle" }
   layout '/default.*'
   filter :relativize_paths, type: :html5
