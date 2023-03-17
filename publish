@@ -1,0 +1,13 @@
+#!/bin/bash
+set -ex
+
+nanoc
+
+git commit -am "$1"
+git push
+
+cd output
+git commit -am "$1"
+git push
+
+cd ..
