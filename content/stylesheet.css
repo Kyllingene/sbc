@@ -23,6 +23,9 @@
   --link-normal: var(--light-link-normal);
   --link-hover: var(--light-link-hover);
   --link-background: var(--light-link-background);
+  
+  --sun: url("/sun.svg");
+  --moon: url("/sun.moon");
 }
 
 * {
