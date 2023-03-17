@@ -1,9 +1,9 @@
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Matthew - Spokane Bible Church</title>
-  <link rel="stylesheet" href="../../../stylesheet.css">
   
-  <!-- you don't need to keep this, but it's cool for stats! -->
+  <link rel="stylesheet" href="../../../stylesheet.css">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <meta name="generator" content="Nanoc 4.12.15">
 </head>
 <body>
@@ -75,7 +75,7 @@
       r.style.setProperty('--link-background', 'var(--light-link-background)');
       
       var button = document.getElementById("darkmode");
-      button.style.setProperty('background', 'url("/moon.svg") center no-repeat');
+      button.style.setProperty('background', 'var(--moon) center no-repeat');
       button.style.setProperty('background-color', 'var(--light-text-color)');
     } else { // enable darkmode
       r.style.setProperty('--emphasis', 'var(--dark-emphasis)');
@@ -87,7 +87,7 @@
       r.style.setProperty('--link-background', 'var(--dark-link-background)');
       
       var button = document.getElementById("darkmode");
-      button.style.setProperty('background', 'url("/sun.svg") center no-repeat');
+      button.style.setProperty('background', 'var(--sun) center no-repeat');
       button.style.setProperty('background-color', 'var(--dark-text-color)');
     }
   }
