@@ -1,0 +1,116 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <title>Spokane Bible Church</title>
+  <link rel="stylesheet" href="stylesheet.css">
+  
+  <!-- you don't need to keep this, but it's cool for stats! -->
+  <meta name="generator" content="Nanoc 4.12.15">
+</head>
+<body>
+  <div class="header">
+    <button id="darkmode" onclick="darkmode()"></button>
+    <nav>
+      <ul class="nav">
+        <li><a class="link" href="./">Home</a></li>
+        <li><a class="link" href="videos/">Lessons</a></li>
+        <li><a class="link" href="gospel/">Good News</a></li>
+        <li><a class="link" href="contact/">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div id="main">
+    <h1>Welcome to <mark>Spokane Bible Church!</mark></h1>
+<div class="sect2">
+<h3 id="_a_local_grace_oriented_bible_teaching_dispensational_independent_evangelical_christian_nondenominational_church">A Local <strong>Grace-Oriented, Bible Teaching, Dispensational, Independent, Evangelical Christian, Nondenominational Church</strong></h3>
+<hr>
+<div class="sidebarblock">
+<div class="content">
+<h2 id="_local_weekly_worship_services" class="discrete">Local Weekly Worship Services</h2>
+<table class="tableblock frame-all grid-all fit-content">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock"><strong>Sunday School</strong></p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock"><strong><mark>9:30 am</mark></strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock"><strong>Sunday Service</strong></p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock"><strong><mark>10:45 am</mark></strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock"><strong>Wednesday Bible Study</strong></p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock"><strong><mark>7:00 pm</mark></strong></p></td>
+</tr>
+</tbody>
+</table>
+<h2 id="_come_visit_us" class="discrete">Come Visit Us!</h2>
+<h3 id="_9419_n_five_mile_rd_spokane_wa_99208" class="discrete"><mark><a href="https://maps.google.com/maps?ll=47.743965,-117.454475&amp;z=14&amp;t=m&amp;hl=en&amp;gl=US&amp;mapclient=embed&amp;cid=13561713776835168824">9419 N Five Mile Rd, Spokane, WA. 99208</a></mark></h3>
+</div>
+</div>
+</div>
+  </div>
+
+
+
+<script>
+  var r = document.querySelector(':root');
+  
+  // these two functions modified from
+  //  stackoverflow.com/questions/51312980/how-to-get-and-set-cookies-in-javascript
+  function setDark(value, days) {
+    var expires = "";
+    if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+      expires = ";secure;samesite=none; expires=" + date.toUTCString();
+    }
+    document.cookie = "darkmode" + "=" + (value || "false") + expires + "; path=/";
+    
+    setColors(value);
+  }
+  
+  function getDark() {
+    return document.cookie.includes('true');
+  }
+  
+  function setColors(dark) {
+    if (dark) { // disable darkmode
+      r.style.setProperty('--emphasis', 'var(--light-emphasis)');
+      r.style.setProperty('--bg-color', 'var(--light-bg-color)');
+      r.style.setProperty('--text-color', 'var(--light-text-color)');
+
+      r.style.setProperty('--link-normal', 'var(--light-link-normal)');
+      r.style.setProperty('--link-hover', 'var(--light-link-hover)');
+      r.style.setProperty('--link-background', 'var(--light-link-background)');
+      
+      var button = document.getElementById("darkmode");
+      button.style.setProperty('background', 'url("/moon.svg") center no-repeat');
+      button.style.setProperty('background-color', 'var(--light-text-color)');
+    } else { // enable darkmode
+      r.style.setProperty('--emphasis', 'var(--dark-emphasis)');
+      r.style.setProperty('--bg-color', 'var(--dark-bg-color)');
+      r.style.setProperty('--text-color', 'var(--dark-text-color)');
+
+      r.style.setProperty('--link-normal', 'var(--dark-link-normal)');
+      r.style.setProperty('--link-hover', 'var(--dark-link-hover)');
+      r.style.setProperty('--link-background', 'var(--dark-link-background)');
+      
+      var button = document.getElementById("darkmode");
+      button.style.setProperty('background', 'url("/sun.svg") center no-repeat');
+      button.style.setProperty('background-color', 'var(--dark-text-color)');
+    }
+  }
+  
+  function darkmode() {
+    if (getDark()) {
+      setDark(false, 730);
+    } else {
+      setDark(true, 730);
+    }
+  }
+  
+  setColors(getDark());
+</script></body></html>
