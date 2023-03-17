@@ -24,8 +24,8 @@
   --link-hover: var(--light-link-hover);
   --link-background: var(--light-link-background);
   
-  --sun: url("sun.svg");
-  --moon: url("moon.svg");
+  --sun: url("/sun.svg");
+  --moon: url("/moon.svg");
 }
 
 * {
