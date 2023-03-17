@@ -1,0 +1,7 @@
+---
+title: Not Found - Spokane Bible Church
+---
+
+= I'm sorry, that page #couldn't be found.#
+
+=== It might not exist yet. link:contact/[Contact us!]
