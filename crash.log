@@ -1,36 +1,33 @@
-Crashlog created at 2023-03-17 15:16:14 -0700
+Crashlog created at 2023-03-17 15:22:19 -0700
 
 ===== MESSAGE:
 
-SocketError: getaddrinfo: Name or service not known
+SyntaxError: /home/kyllingene/Web/sbc-nanoc/Rules:48: syntax error, unexpected end-of-input, expecting `end'
 
 ===== STACK TRACE:
 
-  0. /usr/lib/ruby/3.0.0/socket.rb:227:in `getaddrinfo'
-  1. /usr/lib/ruby/3.0.0/socket.rb:227:in `foreach'
-  2. /usr/lib/ruby/3.0.0/socket.rb:763:in `tcp_server_sockets'
-  3. /usr/lib/ruby/gems/3.0.0/gems/webrick-1.8.1/lib/webrick/utils.rb:60:in `create_listeners'
-  4. /usr/lib/ruby/gems/3.0.0/gems/webrick-1.8.1/lib/webrick/server.rb:130:in `listen'
-  5. /usr/lib/ruby/gems/3.0.0/gems/webrick-1.8.1/lib/webrick/server.rb:111:in `initialize'
-  6. /usr/lib/ruby/gems/3.0.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:47:in `initialize'
-  7. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/rack-2.2.6.4/lib/rack/handler/webrick.rb:38:in `new'
-  8. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/rack-2.2.6.4/lib/rack/handler/webrick.rb:38:in `run'
-  9. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/adsf-1.4.6/lib/adsf/server.rb:24:in `run'
-  10. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/commands/view.rb:37:in `run'
-  11. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/command_runner.rb:15:in `block in call'
-  12. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/error_handler.rb:57:in `handle_while'
-  13. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/error_handler.rb:15:in `handle_while'
-  14. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/command_runner.rb:14:in `call'
-  15. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/cri-2.15.11/lib/cri/command_dsl.rb:294:in `block in runner'
-  16. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/cri-2.15.11/lib/cri/command.rb:362:in `run_this'
-  17. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/cri-2.15.11/lib/cri/command.rb:298:in `run'
-  18. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/cri-2.15.11/lib/cri/command.rb:316:in `run'
-  19. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli.rb:88:in `block in run'
-  20. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/error_handler.rb:57:in `handle_while'
-  21. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/error_handler.rb:15:in `handle_while'
-  22. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli.rb:86:in `run'
-  23. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-4.12.15/bin/nanoc:18:in `<top (required)>'
-  24. /home/kyllingene/.local/share/gem/ruby/3.0.0/bin/nanoc:25:in `load'
+  0. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-4.12.15/lib/nanoc/rule_dsl/rules_loader.rb:26:in `instance_eval'
+  1. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-4.12.15/lib/nanoc/rule_dsl/rules_loader.rb:26:in `parse'
+  2. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-4.12.15/lib/nanoc/rule_dsl/rules_loader.rb:15:in `load'
+  3. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-4.12.15/lib/nanoc/rule_dsl/action_provider.rb:20:in `for'
+  4. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-core-4.12.15/lib/nanoc/core/compiler_loader.rb:18:in `load'
+  5. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-core-4.12.15/lib/nanoc/core/compiler.rb:15:in `new_for'
+  6. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/commands/compile.rb:38:in `run_once'
+  7. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/commands/compile.rb:23:in `run'
+  8. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/command_runner.rb:15:in `block in call'
+  9. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/error_handler.rb:57:in `handle_while'
+  10. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/error_handler.rb:15:in `handle_while'
+  11. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/command_runner.rb:14:in `call'
+  12. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/cri-2.15.11/lib/cri/command_dsl.rb:294:in `block in runner'
+  13. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/cri-2.15.11/lib/cri/command.rb:362:in `run_this'
+  14. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/cri-2.15.11/lib/cri/command.rb:298:in `run'
+  15. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/cri-2.15.11/lib/cri/command.rb:316:in `run'
+  16. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli.rb:88:in `block in run'
+  17. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/error_handler.rb:57:in `handle_while'
+  18. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli/error_handler.rb:15:in `handle_while'
+  19. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-cli-4.12.15/lib/nanoc/cli.rb:86:in `run'
+  20. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-4.12.15/bin/nanoc:18:in `<top (required)>'
+  21. /home/kyllingene/.local/share/gem/ruby/3.0.0/bin/nanoc:25:in `load'
 
 ===== VERSION INFORMATION:
 
@@ -200,14 +197,11 @@ Linux kyllingene 5.15.94-1-MANJARO #1 SMP PREEMPT Tue Feb 14 19:45:58 UTC 2023 x
   21. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/tty-command-0.10.1/lib
   22. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/tty-which-0.5.0/lib
   23. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/nanoc-4.12.15/lib
-  24. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/rack-2.2.6.4/lib
-  25. /home/kyllingene/.local/share/gem/ruby/3.0.0/gems/adsf-1.4.6/lib
-  26. /usr/lib/ruby/gems/3.0.0/gems/webrick-1.8.1/lib
-  27. /usr/lib/ruby/site_ruby/3.0.0
-  28. /usr/lib/ruby/site_ruby/3.0.0/x86_64-linux
-  29. /usr/lib/ruby/site_ruby
-  30. /usr/lib/ruby/vendor_ruby/3.0.0
-  31. /usr/lib/ruby/vendor_ruby/3.0.0/x86_64-linux
-  32. /usr/lib/ruby/vendor_ruby
-  33. /usr/lib/ruby/3.0.0
-  34. /usr/lib/ruby/3.0.0/x86_64-linux
+  24. /usr/lib/ruby/site_ruby/3.0.0
+  25. /usr/lib/ruby/site_ruby/3.0.0/x86_64-linux
+  26. /usr/lib/ruby/site_ruby
+  27. /usr/lib/ruby/vendor_ruby/3.0.0
+  28. /usr/lib/ruby/vendor_ruby/3.0.0/x86_64-linux
+  29. /usr/lib/ruby/vendor_ruby
+  30. /usr/lib/ruby/3.0.0
+  31. /usr/lib/ruby/3.0.0/x86_64-linux
