@@ -1,10 +1,5 @@
 #!/usr/bin/env ruby
 
-compile '**/*.css' do
-  filter :relativize_paths, type: :css
-  write item.identifier.to_s
-end
-
 compile '404.adoc' do
   filter :asciidoctor, { attributes: "showtitle" }
   layout '/default.*'
