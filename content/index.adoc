@@ -1,0 +1,29 @@
+---
+title: Spokane Bible Church
+---
+
+= Welcome to #Spokane Bible Church!#
+
+=== A Local **Grace-Oriented, Bible Teaching, Dispensational, Independent, Evangelical Christian, Nondenominational Church**
+
+'''
+
+****
+
+[discrete]
+== Local Weekly Worship Services
+
+[cols=">1,^1"]
+[%autowidth]
+|========================================
+| *Sunday School*         | *#9:30 am#*
+| *Sunday Service*        | *#10:45 am#* 
+| *Wednesday Bible Study* | *#7:00 pm#* 
+|========================================
+
+[discrete]
+== Come Visit Us!
+[discrete]
+=== #https://maps.google.com/maps?ll=47.743965,-117.454475&z=14&t=m&hl=en&gl=US&mapclient=embed&cid=13561713776835168824[9419 N Five Mile Rd, Spokane, WA. 99208]#
+
+****

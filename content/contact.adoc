@@ -1,0 +1,22 @@
+---
+title: Contact - Spokane Bible Church
+---
+
+= Contact Information
+
+== Pastor-Teacher Jeremy Thomas
+
+mailto:jtstj@protonmail.com[]
+
+== SBC Prayer Requests
+
+mailto:spokanebiblechurchprayer@gmail.com[]
+
+== Spokane Bible Church
+
+mailto:spokanebiblechurch@gmail.com[]
+
+#https://maps.google.com/maps?ll=47.743965,-117.454475&z=14&t=m&hl=en&gl=US&mapclient=embed&cid=13561713776835168824[9419 N Five Mile Rd, Spokane, WA. 99208]#
+
+// this is required, since `tel:5094679206[(509) 467-9206] doesn't work`
+pass:[<a href="tel:5094679206">(509) 467-9206</a>]

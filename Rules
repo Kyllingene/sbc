@@ -1,0 +1,54 @@
+#!/usr/bin/env ruby
+
+compile '404.adoc' do
+  filter :asciidoctor, { attributes: "showtitle" }
+  layout '/default.*'
+  filter :relativize_paths, type: :html5
+
+  write "/404.html"
+end
+
+compile '/**/*.html' do
+  layout '/default.*'
+  filter :relativize_paths, type: :html5
+
+  if item.identifier =~ '**/index.*'
+    write item.identifier.to_s
+  else
+    write item.identifier.without_ext + '/index.html'
+  end
+end
+
+compile '/**/*.md' do
+  filter :kramdown
+  layout '/default.*'
+  filter :relativize_paths, type: :html5
+
+  if item.identifier =~ '**/index.*'
+    write ext: 'html'
+  else
+    write item.identifier.without_ext + '/index.html'
+  end
+end
+
+compile '/**/*.{adoc,asciidoc}' do
+  filter :asciidoctor, { attributes: "showtitle" }
+  layout '/default.*'
+  filter :relativize_paths, type: :html5
+
+  if item.identifier =~ '**/index.*'
+    write ext: 'html'
+  else
+    write item.identifier.without_ext + '/index.html'
+  end
+end
+
+compile '/public/**/*' do
+  write item.identifier.components[1..-3].join("/") + "/" + item.identifier.components[-1]
+end
+
+compile '/**/*' do
+  write item.identifier.to_s
+end
+
+layout '/**/*', :erb

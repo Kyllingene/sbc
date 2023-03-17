@@ -1,0 +1,13 @@
+---
+title: Matthew - Spokane Bible Church
+---
+
+= The Book Of #Matthew#
+
+- link:https://www.youtube.com/watch?v=oNn09rgQB4Q["Matthew 1, The Geneology of the King",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=xaArcV_VM18["Birth Narratives, Matthew 1:1-25 and Luke 1:26-38",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=Vk9i-R-mAsQ["Matthew 11:1-5",role=video]
