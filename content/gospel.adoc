@@ -1,5 +1,6 @@
 ---
 title: Gospel - Spokane Bible Church
+description: Jesus gave his life to save you from your sins. All he requires is that you believe this. Will you?
 ---
 
 = There is #Good News!#

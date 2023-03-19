@@ -1,11 +1,12 @@
 ---
 title: New Testament - Spokane Bible Church
+description: A collection of lessons pertaining to the New Testament.
 ---
 
 = The #New Testament#
 
-== link:matthew[Matthew]
-== link:mark[Mark]
-== link:luke[Luke]
-== link:john[John]
-== link:acts[Acts]
+== link:matthew[Matthew,role=index]
+== link:mark[Mark,role=index]
+== link:luke[Luke,role=index]
+== link:john[John,role=index]
+== link:acts[Acts,role=index]

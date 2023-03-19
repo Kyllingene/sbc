@@ -1,5 +1,6 @@
 ---
 title: Old Testament - Spokane Bible Church
+description: A collection of lessons pertaining to the Old Testament.
 ---
 
 = The #Old Testament#

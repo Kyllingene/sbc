@@ -1,5 +1,6 @@
 ---
 title: Lessons - Spokane Bible Church
+description: A collection of lessons from Spokane Bible Church.
 ---
 
 = Lessons
