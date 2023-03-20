@@ -4,6 +4,11 @@ compile '/404.html' do
   write '/404.html'
 end
 
+compile '/sitemap.erb'  do
+  filter :erb
+  write '/sitemap.xml'
+end
+
 compile '/**/*.html' do
   layout '/default.*'
   filter :relativize_paths, type: :html5
