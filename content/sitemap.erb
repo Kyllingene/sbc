@@ -1,0 +1,1 @@
+<%= xml_sitemap items: items.select { |i| i.path.end_with?('.html') or i.path.include?('contact') or i.path.include?('videos') or i.path.include?('gospel') or i.path.include?('not-found') or i.path.include?('docs') } %>
