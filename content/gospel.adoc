@@ -13,6 +13,6 @@ description: Jesus gave his life to save you from your sins. All he requires is 
 
 ---
 
-== “For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life.”
+[.big]#“For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life.”#
 
 === #John 3:16#
