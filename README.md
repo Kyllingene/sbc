@@ -1,5 +1,6 @@
-# sbc
+# Spokane Bible Church
+## A prototype new website for [Spokane Bible Church](https://spokanebiblechurch.com)
 
-[![pages-build-deployment](https://github.com/Kyllingene/sbc/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/Kyllingene/sbc/actions/workflows/pages/pages-build-deployment)
+### Available now at [kyllingene.github.io/sbc-astro](https://kyllingene.github.io/sbc)
 
-A v2 prototype website using Nanoc
+### Give feedback at [josiah.t@outlook.com](mailto:josiah.t@outlook.com)
