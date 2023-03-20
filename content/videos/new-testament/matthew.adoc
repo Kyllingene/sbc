@@ -5,6 +5,8 @@ description: A collection of lessons pertaining to the book of Matthew.
 
 = The Book Of #Matthew#
 
+== Videos
+
 - link:https://www.youtube.com/watch?v=oNn09rgQB4Q["Matthew 1, The Geneology of the King",role=video]
 
 - ^────^
@@ -12,3 +14,5 @@ description: A collection of lessons pertaining to the book of Matthew.
 
 - ^────^
 - link:https://www.youtube.com/watch?v=Vk9i-R-mAsQ["Matthew 11:1-5",role=video]
+
+- ^────^

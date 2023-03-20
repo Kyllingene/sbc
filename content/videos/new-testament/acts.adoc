@@ -57,7 +57,7 @@ description: A collection of lessons pertaining to the book of Acts.
 - ^────^
 - link:https://www.youtube.com/watch?v=1ZpiC1gMQVg["Acts 17: The First Missionary Journey: Iconium, Lystra, Derbe (Acts 14:1-28)",role=video]
 
-'''
+- ^────^
 
 == Documents
 - link:/docs/Acts-Introduction-Background-Argument.pdf["Acts Background, Introduction and Argument (PDF)",role=video]
