@@ -4,13 +4,18 @@
   
   <link rel="stylesheet" href="../stylesheet.css">
   <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+  
   <meta name="generator" content="Nanoc 4.12.15">
-
   <meta name="description" content="Jesus gave his life to save you from your sins. All he requires is that you believe this. Will you?">
-
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&amp;display=swap" rel="stylesheet">
+
+  <script src="../index.js"></script>
 </head>
-<body>
+<body onload="setColors(getDark())">
   <div class="header">
     <button id="darkmode" aria-label="Toggle dark mode" onclick="darkmode()"></button>
     <nav>
@@ -29,13 +34,13 @@
 <div class="ulist">
 <ul>
 <li>
-<p>Sin is the <mark><strong>basic problem</strong></mark> in our world. It is why there is so much hurting, pain, and brokenness. God didn’t create everything this way. He created everything <mark><strong>very good</strong></mark>, yet we sinned against Him. Sin has <mark><strong>separated</strong></mark> us from Him and from one another.</p>
+<p>Sin is the <mark><strong>basic problem</strong></mark> in our world. It is why there is pain, suffering, and death. God didn’t create everything this way. He created everything <mark><strong>very good</strong></mark>, but we sinned against Him resulting in these problems. Sin has <mark><strong>separated</strong></mark> us from God and from one another.</p>
 </li>
 <li>
-<p>Graciously, He has taken steps to <mark><strong>solve our sin problem</strong></mark> to restore our relationship with Him and others. He did this by sending His own Son, Jesus Christ, who was without sin and could pay the penalty for our sin by dying for us on the cross.</p>
+<p>Graciously, He has taken steps to <mark><strong>solve our sin problem</strong></mark> to restore our relationship with Him and others. He did this by sending His own Son, Jesus Christ, who was without sin and could pay the penalty for our sin by <mark><strong>dying for us on the cross</strong></mark>.</p>
 </li>
 <li>
-<p>God was <mark><strong>satisfied</strong></mark> with His payment and raised Him from the dead so that He can give us His life. When we <mark><strong>believe in Him</strong></mark>, God gives us His life. At that time, our relationship with God is <mark><strong>restored</strong></mark> and we have eternal life.</p>
+<p>God was satisfied with Christ’s payment and raised Him <mark><strong>from the dead</strong></mark> so that when we believe in Him, God gives us His life. At that time, our relationship with God is restored and we have <mark><strong>eternal life</strong></mark>.</p>
 </li>
 </ul>
 </div>
@@ -51,64 +56,4 @@
 </div>
   </div>
 
-
-
-<script>
-  var r = document.querySelector(':root');
-  
-  // these two functions modified from
-  //  stackoverflow.com/questions/51312980/how-to-get-and-set-cookies-in-javascript
-  function setDark(value, days) {
-    var expires = "";
-    if (days) {
-      var date = new Date();
-      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-      expires = ";secure;samesite=none; expires=" + date.toUTCString();
-    }
-    document.cookie = "darkmode" + "=" + (value || "false") + expires + "; path=/";
-    
-    setColors(value);
-  }
-  
-  function getDark() {
-    return document.cookie.includes('true');
-  }
-  
-  function setColors(dark) {
-    if (dark) { // disable darkmode
-      r.style.setProperty('--emphasis', 'var(--light-emphasis)');
-      r.style.setProperty('--bg-color', 'var(--light-bg-color)');
-      r.style.setProperty('--text-color', 'var(--light-text-color)');
-
-      r.style.setProperty('--link-normal', 'var(--light-link-normal)');
-      r.style.setProperty('--link-hover', 'var(--light-link-hover)');
-      r.style.setProperty('--link-background', 'var(--light-link-background)');
-      
-      var button = document.getElementById("darkmode");
-      button.style.setProperty('background', 'var(--moon) center no-repeat');
-      button.style.setProperty('background-color', 'var(--light-text-color)');
-    } else { // enable darkmode
-      r.style.setProperty('--emphasis', 'var(--dark-emphasis)');
-      r.style.setProperty('--bg-color', 'var(--dark-bg-color)');
-      r.style.setProperty('--text-color', 'var(--dark-text-color)');
-
-      r.style.setProperty('--link-normal', 'var(--dark-link-normal)');
-      r.style.setProperty('--link-hover', 'var(--dark-link-hover)');
-      r.style.setProperty('--link-background', 'var(--dark-link-background)');
-      
-      var button = document.getElementById("darkmode");
-      button.style.setProperty('background', 'var(--sun) center no-repeat');
-      button.style.setProperty('background-color', 'var(--dark-text-color)');
-    }
-  }
-  
-  function darkmode() {
-    if (getDark()) {
-      setDark(false, 730);
-    } else {
-      setDark(true, 730);
-    }
-  }
-  
-  setColors(getDark());
-</script></body></html>
+</body></html>
