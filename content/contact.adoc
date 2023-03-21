@@ -9,9 +9,13 @@ description: Contact information for Spokane Bible Church, a local nondenominati
 
 mailto:jtstj@protonmail.com[]
 
+---
+
 == SBC Prayer Requests
 
 mailto:spokanebiblechurchprayer@gmail.com[]
+
+---
 
 == Spokane Bible Church
 

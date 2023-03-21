@@ -1,0 +1,30 @@
+---
+title: 2 Peter - Spokane Bible Church
+description: A collection of lessons pertaining to the book of 2 Peter.
+---
+
+= The Book of #2 Peter#
+
+== Videos
+
+- link:https://www.youtube.com/watch?v=nJOB-dJz8Wc["2 Peter 1:4-9",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=-R5YJcx2Vd4["2 Peter 2:1-11",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=n_YvoHKWS3A["2 Peter 2:1-3",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=iPQS17Jw1Ak["2 Peter 2:4-11",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=ckV23fjE_dw["2 Peter 3",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=QcUCvvw3Dn4["2 Peter",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=AKrNigpHkcw["2 Peter Review",role=video]
+
+- ^────^

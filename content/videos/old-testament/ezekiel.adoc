@@ -1,0 +1,11 @@
+---
+title: Ezekiel - Spokane Bible Church
+description: A collection of lessons pertaining to the book of Ezekiel.
+---
+
+= The Book of #Ezekiel#
+
+== Videos
+- link:https://www.youtube.com/watch?v=vwLn40fyn4s["Ezekiel",role=video]
+
+- ^────^

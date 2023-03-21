@@ -1,0 +1,14 @@
+---
+title: Jeremiah - Spokane Bible Church
+description: A collection of lessons pertaining to the book of Jeremiah.
+---
+
+= The Book of #Jeremiah#
+
+== Videos
+- link:https://www.youtube.com/watch?v=u0tF3a52MW8["Jeremiah 1",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=5gavNa4P9_8["Jeremiah 2",role=video]
+
+- ^────^

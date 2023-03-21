@@ -1,0 +1,53 @@
+---
+title: Deuteronomy - Spokane Bible Church
+description: A collection of lessons pertaining to the book of Deuteronomy.
+---
+
+= The Book of #Deuteronomy#
+
+== Videos
+- link:https://www.youtube.com/watch?v=cIaNc7jEFWE["Deuteronomy 01 Introduction",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=TCOuXuUChMI["Deuteronomy 02, The Commencement Speech",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=0-MzAtP0UhQ["Deuteronomy 03, The Treaty Form of Deuteronomy",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=qOc6Dc70hn8["Deuteronomy 04, The 10 Commandments",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=-Y48wpmKCQg["Deuteronomy 05, Chapter 4",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=C8JUFzU7f_g["Deuteronomy 06, Deuteronomy 5, the 10 commandments",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=-Ynp22vC3-g["Deuteronomy 07",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=5_QZl1wrt5E["Deuteronomy 08",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=85soXnYoREY["Deuteronomy 09",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=TjzUsMYNJbg["Deuteronomy 10",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=U0K5pGM3YV0["Deuteronomy 11",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=eXLF89vFYZ8["Ken Bryan: Deuteronomy 12",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=lQxHsm9KVB4["Ken Bryan: Deuteronomy 13, “Exactly How Serious Are You?”",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=JAj5Mgg30ms["Ken Bryan: Deuteronomy 14",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=jsFyoSHad1E["Ken Bryan: Deuteronomy 16b &#8211; 18",role=video]
+
+- ^────^

@@ -1,0 +1,14 @@
+---
+title: Amos - Spokane Bible Church
+description: A collection of lessons pertaining to the book of Amos.
+---
+
+= The Book of #Amos#
+
+== Videos
+- link:https://www.youtube.com/watch?v=kXuwqWhK0fU["Amos 01",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=dmgt0YdKc3E["Amos 02",role=video]
+
+- ^────^

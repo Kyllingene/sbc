@@ -1,20 +1,20 @@
 :root {
-  --accent: 132, 155, 172;
+  --accent: 170, 148, 107;
   
-  --dark-emphasis: #B0DCEE;
-  --dark-bg-color: #131516;
-  --dark-text-color: #d8d4cf;
+  --dark-emphasis: #97a7d3;
+  --dark-bg-color: #11121a;
+  --dark-text-color: #dbccae;
   
-  --dark-link-normal: #4BAAB6;
-  --dark-link-hover: #39828B;
-  --dark-link-background: #16181ae0;
+  --dark-link-normal: #8ba2e2;
+  --dark-link-hover: #647bb9;
+  --dark-link-background: #10131a;
 
-  --light-emphasis: #517C8E;
+  --light-emphasis: #D0C195;
   --light-bg-color: #FDFDFD;
-  --light-text-color: #42413F;
+  --light-text-color: #161c38;
   
-  --light-link-normal: #33757D;
-  --light-link-hover: #20A3B3;
+  --light-link-normal: #161c5a;
+  --light-link-hover: #161c80;
   --light-link-background: #F0F0F0;
 
   --emphasis: var(--light-emphasis);
@@ -34,7 +34,7 @@
 }
 
 html {
-  font-family: system-ui, sans-serif;
+  font-family: 'Poppins', system-ui, sans-serif;
 }
 
 #main {
@@ -43,6 +43,14 @@ html {
 
   max-width: 60ch;
   text-align: center;
+}
+
+#darkmode {
+  background-color: var(--light-text-color);
+}
+
+p {
+  font-size: 1.2rem;
 }
 
 table {
@@ -161,7 +169,7 @@ button {
   display: block;
   margin: 2em;
   padding: 1em;
-  border: 3px solid rgba(var(--accent), 5%);
+  border: 3px solid rgba(var(--accent), 10%);
   border-radius: 0.25rem;
   text-align: center;
   color: rgb(75, 170, 182);

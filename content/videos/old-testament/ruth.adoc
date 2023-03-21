@@ -1,0 +1,29 @@
+---
+title: Ruth - Spokane Bible Church
+description: A collection of lessons pertaining to the book of Ruth.
+---
+
+= The Book of #Ruth#
+
+== Videos
+- link:https://www.youtube.com/watch?v=j1ofFflMbvk["Ruth 01, Acts 1-2 Ruth 1-2",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=15CCkAzlG8M["Ruth 02, Acts 3 and 4, Ruth 3-4",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=TEUf1j62ZX4["Ruth 05, At the Threshing Floor, Ruth 3:1-18",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=gv6LsX3CXRU["Ruth 06, In the Town of Bethlehem, Ruth 4:1-12, Part 1",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=Q5LEz0aRQ9s["Ruth 07, In the Town of Bethlehem, Ruth 4:1-12, Part 2",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=QpSTNx16lhk["Ruth 08, Marriage and Birth, Ruth 4:13-17",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=FkRmqjprVQQ["Ruth 09, The Genealogy of David and Doctrinal Summaries, Ruth 4:18-22",role=video]
+
+- ^────^

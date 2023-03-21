@@ -1,0 +1,11 @@
+---
+title: Obadiah - Spokane Bible Church
+description: A collection of lessons pertaining to the book of Obadiah.
+---
+
+= The Book of #Obadiah#
+
+== Videos
+- link:https://www.youtube.com/watch?v=3Mlc5uWJ4Es["Bill Proser: Obadiah 02",role=video]
+
+- ^────^
