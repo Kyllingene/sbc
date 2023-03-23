@@ -7,3 +7,8 @@ description: A collection of lessons from Spokane Bible Church.
 
 == link:old-testament[Old Testament]
 == link:new-testament[New Testament]
+
+'''
+
+== link:basics[The Basics]
+== link:framework[Biblical Framework]

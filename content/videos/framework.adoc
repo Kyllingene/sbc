@@ -1,0 +1,267 @@
+---
+title: Biblical Framework - Spokane Bible Church
+description: A collection of lessons establishing a solid biblical framework.
+---
+
+= Biblical #Framework#
+
+== Videos
+
+- link:https://www.youtube.com/watch?v=KGakGvZ2GY0["Framework 13, Creation Review",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=VG9-WbYR91c["Framework 14, The Fall of Man",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=LrNhHy6ORH8["Framework 15, The Fall and Ancient Pagan Sources",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=VJJYfXaD9YE["Framework 16, The Effects of Sin on Man",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=9I5PBH2035s["Framework 17, The Effects of Sin on Nature – Part 1",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=IxLrnicEfXM["Framework 18, The Effects of Sin on Nature – Part 2",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=ctwQX07fm74["Framework 19, The Fall Review – Part 1",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=zl8hwLOsNIY["Framework 20, Direct Suffering Patterns",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=HFD9DHnEt30["Framework 21, Indirect Suffering Patterns and Biblical Responses to Suffering",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=LFwymn_ItzI["Framework 22, The Fall Review – Part 2",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=GhgjrjqW9dY["Framework 26, The Doctrine of Judgment-Salvation",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=wFror5IO_es["Framework 28, Flood Booklet – Part 2",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=btzAjftO_cQ["Framework 29, The New World Covenant",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=nIGIgnuGnBo["Framework 30, The New World Covenant Implications for Nature",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=RM62bSz4utY["Framework 31, New World Covenant Implications for Man",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=uMeE6Be0U-w["Framework 35, Biology, Evolution, and the Biblical Kinds",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=pouK2tg3tR4["Framework 36, Chemistry and the Age of the Earth",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=gobBkRFrZ1I["Framework 37, Physics and the Age of the Universe",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=PE_qq3oAruY["Framework 40, The Tower of Babel and Melchizedek",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=0z4neEXkSHI["Framework 41, The Abrahamic Covenant",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=b0vw3RIJE_4["Framework 42, Framework Review",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=x0XKYFsSzCw["Framework 44, Doctrine of Justification",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=GV8pFQl20Ss["Framework 46, Review Call of Abraham",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=EreOBAlRG4A["Framework 47, Review Faith and Justification",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=croyA0kwRiQ["Framework 48, Review Election",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=ikux3K6t_9I["Framework 49, The Spiritual Decline of Abraham, Isaac, and Jacob",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=wwtqaQH8MPQ["Framework 50, The Exodus",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=6TViaXxSxgI["Framework 51, Doctrine of Judgment-Salvation",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=DK2PlPOH-1I["Framework 52, Mt Sinai",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=rpeRWLc-FIs["Framework 55, The Means of Sanctification",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=lslFF_GtUWo["Framework 56, Exodus Review",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=RfEubp5o-V4["Framework 57, Archaeology of Conquest",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=dUeW66VhOmQ["Framework 59, The Conquest and Settlement",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=H7-XXoiTxcY["Framework 60, Victory at Jericho Defeat at Ai",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=_oCS1f-SZ_Q["Framework 62, 3 Phases of Sanctification",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=IPFgIa9oeoo["Framework 64, The Means of Sanctification",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=COptXS_MI2g["Framework 65, The Enemies of Sanctification",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=llrRZu38GJ8["Framework 66, Review Creation-Fall",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=pyqZVZ4Zlis["Framework 67, Review Creation – Flood",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=wEDZNYClU-A["Framework 68, Review Noahic Covenant to Call of Abraham",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=9qlvL35hIJQ["Framework 69, Review Exodus to Mt Sinai",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=JFQC3ZA7zFQ["Framework 70, Review Exodus to Mt Sinai",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=WILnOveSjKA["Framework 71, Saul, the First King",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=1wzXaj4wP-8["Framework 72, David’s Kingship",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=MmJpRkTAN_U["Framework 73, The Davidic Covenant",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=JnuxOQ-vJ_8["Framework 74, David’s Sin",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=xFjlxdmJRjk["Framework 75, Doctrine of Fellowship",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=IDXuXaOjyvw["Framework 76, The Golden Era of Solomon",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=VNpdsBUSLQk["Framework 77, Wisdom and Foolishness in Culture",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=A-sVTQAXTbw["Framework 79, Aim of Sanctification – Part 1",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=XjuzAhFZA4k["Framework 80, Aim of Sanctification – Part 2",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=I2lhhoFj6WI["Framework 81, Review Creation to Noahic Covenant",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=NfTvTb_0uZQ["Framework 82, Review, Part 2",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=UkSaqR5AhBA["Framework 83, Review, Part 3",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=QUabze_CJoU["Framework 84, The Division of the Kingdom",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=dUNdfHTkuQg["Framework 85, Jeroboam’s Folly",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=n-9gwg6cdG4["Framework 86, Ahab’s Apostasy",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=oqzVQJE2cE8["Framework 87, Elijah vs. Ahab",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=MtxhXgMsQsc["Framework 88, Naboth’s Vineyard",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=sjXGbyhoDz8["Framework 89, Doctrine of Discipline – Part 1",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=wgeF7e6AY84["Framework 90, Doctrine of Discipline – Part 2",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=-bJmlw_WN_4["Framework 91, Review",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=F08VQ_vbTkA["Framework 92, Review, Cont’d",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=BtrtzvhFMec["Framework 93, Review, Cont’d",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=O8hmzeJx_LU["Framework 94, Review, Cont’d",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=-U9ZjSju1rE["Framework 95, Review, Cont’d",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=PMlSJADGkkk["Framework 96, Kingdoms in Decline",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=E4ZXXb3cI7w["Framework 97, God’s Sovereignty over All Nations",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=gA_8e7jE6VI["Framework 98, No Legal Claim on YHWH’s Protection",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=M_64htyNsFk["Framework 99, God will Supply the Righteousness",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=CtqhjIYFd74["Framework 100, Ultimate Sanctification",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=-AjaAZIxhfQ["Framework 101 The Exile and Transfer of Power to Gentiles",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=At2hoqeq4l4["Framework 102  The End of the Davidic Dynasty and the Departure of Shekinah Glory",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=w9FegFsxfs0["Framework 103, Characteristics of Gentile Imperialism",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=gNAWAfsVHS8["Framework 104, Doctrine of Separation",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=tqsjyhgHvls["Framework 105,  Partial Restoration",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=kl98mVxOK9Q["Framework 106, Doctrine of prayer",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=MbC733973YM["Framework 107, The Millennial Issue, Part 1",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=9Fc5HUzP9xM["Framework 108, The Millennial Issue Part 2",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=vH1YHnbG8ZU["Framework 110, The Millennial Issue, Part 3 – Amillennialism",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=cFDan9ZyQxM["Framework 111, The Millennial Issue, part 4 – post-Millennialism",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=kePYlbg9BlM["Framework 112, The Truth of Premillennialism",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=0XBrkuK9RTY["Framework 113,  Review: Creation to Noahic Covenant",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=SSfRyN8GDeE["Framework 114,  Review: The Call of Abraham through the Conquest",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=RM9-avDOvYc["Framework 115, Review,- Rise and Reign of King David to Kingdom Divided",role=video]
+
+- ^────^
+- link:https://www.youtube.com/watch?v=OYH78ZjtXes["Framework 116, Review: Kingdom Divided to Partial Restoration",role=video]
+
+- ^────^
