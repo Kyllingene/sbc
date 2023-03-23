@@ -41,7 +41,7 @@ html {
   margin: auto;
   padding: 1.5rem;
 
-  max-width: 60ch;
+  max-width: 70ch;
   text-align: center;
 }
 
@@ -184,6 +184,10 @@ button {
 }
 
 @media screen and (max-width: 800px) {
+  html {
+    font-size: small;
+  }
+
   #main {
     max-width: 95%;
   }
