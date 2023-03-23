@@ -7,12 +7,12 @@ description: A collection of lessons pertaining to the book of John.
 
 == Videos
 
-- link:https://www.youtube.com/watch?v=MeyhQEEm3IY["Luke 10: Whose Neighbor Are You?",role=video]
+- link:https://youtu.be/MeyhQEEm3IY["Luke 10: Whose Neighbor Are You?",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=xaArcV_VM18["Birth Narratives, Matthew 1:1-25 and Luke 1:26-38",role=video]
+- link:https://youtu.be/xaArcV_VM18["Birth Narratives, Matthew 1:1-25 and Luke 1:26-38",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=L7XAQObaFGY["The Birth of the Messiah, who is Savior and Lord, Luke 2:1-20",role=video]
+- link:https://youtu.be/L7XAQObaFGY["The Birth of the Messiah, who is Savior and Lord, Luke 2:1-20",role=video]
 
 - ^────^

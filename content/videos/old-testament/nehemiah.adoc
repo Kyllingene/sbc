@@ -6,6 +6,6 @@ description: A collection of lessons pertaining to the book of Nehemiah.
 = The Book of #Nehemiah#
 
 == Videos
-- link:https://www.youtube.com/watch?v=yH7B-UGUw_8["Nehemiah: Context, Archaeology, Apologetics and Application",role=video]
+- link:https://youtu.be/yH7B-UGUw_8["Nehemiah: Context, Archaeology, Apologetics and Application",role=video]
 
 - ^────^

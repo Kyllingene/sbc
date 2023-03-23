@@ -1,0 +1,18 @@
+---
+title: Biblical Cities - Spokane Bible Church
+description: A collection of lessons on various Biblical cities.
+---
+
+= Biblical #Cities#
+
+== Videos
+
+- link:https://youtu.be/gBcnGZAGNrs["Athens",role=video]
+
+- ^────^
+- link:https://youtu.be/YJOMcq75Eaw["Ephesus",role=video]
+
+- ^────^
+- link:https://youtu.be/Hh9WFz6wCF8["Rome",role=video]
+
+- ^────^

@@ -7,36 +7,36 @@ description: A collection of lessons pertaining to the book of 1 John.
 
 == Videos
 
-- link:https://www.youtube.com/watch?v=BnAftpzjwfQ["1 John 01",role=video]
+- link:https://youtu.be/BnAftpzjwfQ["1 John 01",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=cLoZjXPmOys["1 John 02",role=video]
+- link:https://youtu.be/cLoZjXPmOys["1 John 02",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=Zq4fc6cr-nY["1 John 03",role=video]
+- link:https://youtu.be/Zq4fc6cr-nY["1 John 03",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=6yteRrnA86c["1 John 04",role=video]
+- link:https://youtu.be/6yteRrnA86c["1 John 04",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=r1nSL-W3lHs["1 John 05",role=video]
+- link:https://youtu.be/r1nSL-W3lHs["1 John 05",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=a7zpBUjkfFc["1 John 06: from 1 John 2:1 –3:24, Enemies of Fellowship",role=video]
+- link:https://youtu.be/a7zpBUjkfFc["1 John 06: from 1 John 2:1 –3:24, Enemies of Fellowship",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=WNe5T96uWgw["1 John 07: 1 John 4, Proof of Fellowship",role=video]
+- link:https://youtu.be/WNe5T96uWgw["1 John 07: 1 John 4, Proof of Fellowship",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=2mp7kTpaxT4["1 John 09 Glen Schofield",role=video]
+- link:https://youtu.be/2mp7kTpaxT4["1 John 09 Glen Schofield",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=327fvTFOFg4["1 John",role=video]
+- link:https://youtu.be/327fvTFOFg4["1 John",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=n14zuVkUAsE["I John-08:  Glen Schofield",role=video]
+- link:https://youtu.be/n14zuVkUAsE["I John-08:  Glen Schofield",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=rHHIHi0uzcA["I John 10 Glen Schofield",role=video]
+- link:https://youtu.be/rHHIHi0uzcA["I John 10 Glen Schofield",role=video]
 
 - ^────^

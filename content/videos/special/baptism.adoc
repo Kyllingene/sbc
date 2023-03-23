@@ -1,0 +1,15 @@
+---
+title: Baptism - Spokane Bible Church
+description: A collection of lessons on Christian baptism.
+---
+
+= #Baptism#
+
+== Videos
+
+- link:https://youtu.be/6sc5Fxdsq04?list=PLtV_KhFVZ_wal1VXp4N7oGSkc11Ve_4YA["Believer's Water Baptism",role=video]
+
+- ^────^
+- link:https://youtu.be/7JV0ZIWYWlo?list=PLtV_KhFVZ_wal1VXp4N7oGSkc11Ve_4YA["Salvation and Baptism",role=video]
+
+- ^────^

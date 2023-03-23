@@ -6,27 +6,27 @@ description: A collection of lessons pertaining to the book of Malachi.
 = The Book of #Malachi#
 
 == Videos
-- link:https://www.youtube.com/watch?v=aNPV3OTHKz0["Bill Proser: Malachi 01",role=video]
+- link:https://youtu.be/aNPV3OTHKz0["Bill Proser: Malachi 01",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=xyhDt5obpgs["Bill Proser: Malachi 02",role=video]
+- link:https://youtu.be/xyhDt5obpgs["Bill Proser: Malachi 02",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=DlqK_uKc5Ss["Bill Proser: Malachi 03",role=video]
+- link:https://youtu.be/DlqK_uKc5Ss["Bill Proser: Malachi 03",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=j9jIdicwLKc["Bill Proser: Malachi 04",role=video]
+- link:https://youtu.be/j9jIdicwLKc["Bill Proser: Malachi 04",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=LzdXDcVCFMc["Bill Proser: Malachi 05",role=video]
+- link:https://youtu.be/LzdXDcVCFMc["Bill Proser: Malachi 05",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=TsGOFuXBVLA["Bill Proser: Malachi 06",role=video]
+- link:https://youtu.be/TsGOFuXBVLA["Bill Proser: Malachi 06",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=iB5bucH7lRs["Bill Proser: Malachi 07",role=video]
+- link:https://youtu.be/iB5bucH7lRs["Bill Proser: Malachi 07",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=3ssjPUiKu5M["Bill Proser: Malachi 08",role=video]
+- link:https://youtu.be/3ssjPUiKu5M["Bill Proser: Malachi 08",role=video]
 
 - ^────^

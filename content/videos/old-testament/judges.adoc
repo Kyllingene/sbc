@@ -6,66 +6,66 @@ description: A collection of lessons pertaining to the book of Judges.
 = The Book of #Judges#
 
 == Videos
-- link:https://www.youtube.com/watch?v=tcrTHhTBb94["Judges 01: Introduction and Background",role=video]
+- link:https://youtu.be/tcrTHhTBb94["Judges 01: Introduction and Background",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=KhmnjV5GEqk["Judges 02: ch. 1 Compromise and Apostasy",role=video]
+- link:https://youtu.be/KhmnjV5GEqk["Judges 02: ch. 1 Compromise and Apostasy",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=bCQzolWrxXU["Judges 03: Judges 2:1-10  Doom at Bochim and Flashback to Faithfulness",role=video]
+- link:https://youtu.be/bCQzolWrxXU["Judges 03: Judges 2:1-10  Doom at Bochim and Flashback to Faithfulness",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=KV2dK6TGwtc["Judges 04: Ch 2:11- 3:4  5 Elements in Apostasy Cycle",role=video]
+- link:https://youtu.be/KV2dK6TGwtc["Judges 04: Ch 2:11- 3:4  5 Elements in Apostasy Cycle",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=AuUstQCEIHg["Judges 05, Ch 3, God’s Deliverance Through Othniel and Ehud",role=video]
+- link:https://youtu.be/AuUstQCEIHg["Judges 05, Ch 3, God’s Deliverance Through Othniel and Ehud",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=pl_sW0NPCLw["Judges 06, Chs. 3:31 &#8211; 4:24  Shamgar, Deborah, Barak, and Jael",role=video]
+- link:https://youtu.be/pl_sW0NPCLw["Judges 06, Chs. 3:31 &#8211; 4:24  Shamgar, Deborah, Barak, and Jael",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=IYBfm5BxmgU["Judges 07, Ch 5:1-31,  Deborah&#8217;s Song of Victory",role=video]
+- link:https://youtu.be/IYBfm5BxmgU["Judges 07, Ch 5:1-31,  Deborah&#8217;s Song of Victory",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=GAxEtdL6EQo["Judges 08, Ch 6:1-40, Gideon’s Faith",role=video]
+- link:https://youtu.be/GAxEtdL6EQo["Judges 08, Ch 6:1-40, Gideon’s Faith",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=YiC_1tH4Yy0["Judges 09, Chs. 7:1-8:32, Gideon’s Rise to Faith and Fall into Apostasy",role=video]
+- link:https://youtu.be/YiC_1tH4Yy0["Judges 09, Chs. 7:1-8:32, Gideon’s Rise to Faith and Fall into Apostasy",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=q_mzxsqt5tk["Judges 10, Abimelech the Usurper (Judges 8:33-9:57)",role=video]
+- link:https://youtu.be/q_mzxsqt5tk["Judges 10, Abimelech the Usurper (Judges 8:33-9:57)",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=GQikOQ8Jh_U["Judges 11, Thinking Thru Judges",role=video]
+- link:https://youtu.be/GQikOQ8Jh_U["Judges 11, Thinking Thru Judges",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=a9hQx1Dc_IQ["Judges 12, Judges 10:1-11:28 ,  Jephthah’s Barter",role=video]
+- link:https://youtu.be/a9hQx1Dc_IQ["Judges 12, Judges 10:1-11:28 ,  Jephthah’s Barter",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=A6Ysb2Q13wE["Judges 13, Jephthah’s Vow,  Judges 11:28-12:15",role=video]
+- link:https://youtu.be/A6Ysb2Q13wE["Judges 13, Jephthah’s Vow,  Judges 11:28-12:15",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=I6W7i0yZbTU["Judges 14, Samson’s Birth and Childhood, Judges 13:1-25",role=video]
+- link:https://youtu.be/I6W7i0yZbTU["Judges 14, Samson’s Birth and Childhood, Judges 13:1-25",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=bcWGlgurJeA["Judges 15, Samson’s Mighty Exploits, Judges 14-15",role=video]
+- link:https://youtu.be/bcWGlgurJeA["Judges 15, Samson’s Mighty Exploits, Judges 14-15",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=9-XFWEBCDjk["Judges 16, Samson’s Problem with Women, 16:1-31",role=video]
+- link:https://youtu.be/9-XFWEBCDjk["Judges 16, Samson’s Problem with Women, 16:1-31",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=efR50l_t0yM["Judges 17, The Young Levite, Judges 17-18",role=video]
+- link:https://youtu.be/efR50l_t0yM["Judges 17, The Young Levite, Judges 17-18",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=_1of-fr8J9M["Judges 18, The Levite, His Concubine, and the Men of Gibeah , Judges  ch 19",role=video]
+- link:https://youtu.be/_1of-fr8J9M["Judges 18, The Levite, His Concubine, and the Men of Gibeah , Judges  ch 19",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=8jMOQB1VfUI["Judges 19: Civil War in Israel, (Judges 20)",role=video]
+- link:https://youtu.be/8jMOQB1VfUI["Judges 19: Civil War in Israel, (Judges 20)",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=yOlpCqMEwak["Judges 20: Finding Wives for Benjamin, Judges  ch 21",role=video]
+- link:https://youtu.be/yOlpCqMEwak["Judges 20: Finding Wives for Benjamin, Judges  ch 21",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=Flvscm0eI5w["Judges 21, Book of Judges Review",role=video]
+- link:https://youtu.be/Flvscm0eI5w["Judges 21, Book of Judges Review",role=video]
 
 - ^────^

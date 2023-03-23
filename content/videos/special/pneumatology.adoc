@@ -1,0 +1,18 @@
+---
+title: Pneumatology - Spokane Bible Church
+description: A collection of lessons on pneumatology, the study of the Holy Spirit.
+---
+
+= #Pneumatology#
+
+== Videos
+
+- link:https://youtu.be/pSLfvOlXsd4["Pneumatology 1",role=video]
+
+- ^────^
+- link:https://youtu.be/zlp9mjBqTYM["Pneumatology 2",role=video]
+
+- ^────^
+- link:https://youtu.be/73uRYMuEOpo["Pneumatology 3",role=video]
+
+- ^────^

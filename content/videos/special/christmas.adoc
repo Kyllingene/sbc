@@ -1,0 +1,15 @@
+---
+title: Christmas - Spokane Bible Church
+description: A collection of lessons on the Christmas story.
+---
+
+= #Christmas#
+
+== Videos
+
+- link:https://youtu.be/0XPe9FeMzkY["The Astronomer's Reception of the King, Matt 2:1-12",role=video]
+
+- ^────^
+- link:https://youtu.be/L7XAQObaFGY["The Birth of the Messiah, who is Savior and Lord, Luke 2:1-20",role=video]
+
+- ^────^

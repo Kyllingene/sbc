@@ -1,0 +1,21 @@
+---
+title: Easter - Spokane Bible Church
+description: A collection of lessons on the Easter story.
+---
+
+= #Easter#
+
+== Videos
+
+- link:https://youtu.be/-CaX-QCHYB0?list=PLtV_KhFVZ_wYdbv8eKE1E39QPcr2pmb0z["A Harmony of the Gospel Accounts of the Resurrection - Part 1",role=video]
+
+- ^────^
+- link:https://youtu.be/PhUbbqgkO6s?list=PLtV_KhFVZ_wYdbv8eKE1E39QPcr2pmb0z["A Harmony of the Gospel Accounts of the Resurrection - Part 2",role=video]
+
+- ^────^
+- link:https://youtu.be/yBfzRbR0MOY?list=PLtV_KhFVZ_wYdbv8eKE1E39QPcr2pmb0z["Resurrection Implicit and Explicit, Part and Parcel of God's Plan for History",role=video]
+
+- ^────^
+- link:https://youtu.be/_LdVTmfSCuY?list=PLtV_KhFVZ_wYdbv8eKE1E39QPcr2pmb0z["What Will the Resurrection Body Be Like?",role=video]
+
+- ^────^

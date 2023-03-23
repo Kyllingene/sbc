@@ -6,15 +6,15 @@ description: A collection of lessons pertaining to the book of Exodus.
 = The Book of #Exodus#
 
 == Videos
-- link:https://www.youtube.com/watch?v=9F030RbFz5k["Bill Proser: Exodus 3:1-22 – God Chooses",role=video]
+- link:https://youtu.be/9F030RbFz5k["Bill Proser: Exodus 3:1-22 – God Chooses",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=ahOMAHyObAA["Bill Proser: Exodus 3:1-22",role=video]
+- link:https://youtu.be/ahOMAHyObAA["Bill Proser: Exodus 3:1-22",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=AOFZaoG3Vqw["Bill Proser: Exodus 3:1-22",role=video]
+- link:https://youtu.be/AOFZaoG3Vqw["Bill Proser: Exodus 3:1-22",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=PS6sIwr7d6w["Bill Proser, Exodus 3:1-22",role=video]
+- link:https://youtu.be/PS6sIwr7d6w["Bill Proser, Exodus 3:1-22",role=video]
 
 - ^────^
