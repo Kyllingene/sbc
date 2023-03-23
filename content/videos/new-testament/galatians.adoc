@@ -7,24 +7,24 @@ description: A collection of lessons pertaining to the book of Galatians.
 
 == Videos
 
-- link:https://www.youtube.com/watch?v=jtaVP_NKOks["Galatians 01/02 Introduction, Background, Where did Paul get His Gospel? 1:1-24",role=video]
+- link:https://youtu.be/jtaVP_NKOks["Galatians 01/02 Introduction, Background, Where did Paul get His Gospel? 1:1-24",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=zoPs3z3ZWJ8["Galatians 02 Where did Paul Get His Gospel? (Gal 1:1-24)",role=video]
+- link:https://youtu.be/zoPs3z3ZWJ8["Galatians 02 Where did Paul Get His Gospel? (Gal 1:1-24)",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=C7FiBplkCa8["Galatians 03 Was Paul an Apostle? What was his Gospel? Gal 2:1-21",role=video]
+- link:https://youtu.be/C7FiBplkCa8["Galatians 03 Was Paul an Apostle? What was his Gospel? Gal 2:1-21",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=uHCWv5QFdw4["Galatians 04 The Argument for Faith 3:1-29",role=video]
+- link:https://youtu.be/uHCWv5QFdw4["Galatians 04 The Argument for Faith 3:1-29",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=jZVWcJNaqDQ["Galatians 05 Paul&#8217;s Argument for Faith 3:15-29",role=video]
+- link:https://youtu.be/jZVWcJNaqDQ["Galatians 05 Paul&#8217;s Argument for Faith 3:15-29",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=uPM_xVRjD6k["Galatians 06 Paul&#8217;s Argument for Freedom 4:1-20",role=video]
+- link:https://youtu.be/uPM_xVRjD6k["Galatians 06 Paul&#8217;s Argument for Freedom 4:1-20",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=-Yww_X91w6Y["Galatians 06 Paul&#8217;s Argument for Freedom Cont. 4:1-20",role=video]
+- link:https://youtu.be/-Yww_X91w6Y["Galatians 06 Paul&#8217;s Argument for Freedom Cont. 4:1-20",role=video]
 
 - ^────^

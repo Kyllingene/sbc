@@ -7,12 +7,12 @@ description: A collection of lessons pertaining to the book of Titus.
 
 == Videos
 
-- link:https://www.youtube.com/watch?v=dvIBuAuGSCY["Book of Titus: Introduction and Background",role=video]
+- link:https://youtu.be/dvIBuAuGSCY["Book of Titus: Introduction and Background",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=y9P6NfNNR38["Titus 03: Setting Things in Order (1:10-2:10)",role=video]
+- link:https://youtu.be/y9P6NfNNR38["Titus 03: Setting Things in Order (1:10-2:10)",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=BogvAxbhURM["Titus 04: Grace, Upright Lives, Rapture, Good Deeds (2:1-15)",role=video]
+- link:https://youtu.be/BogvAxbhURM["Titus 04: Grace, Upright Lives, Rapture, Good Deeds (2:1-15)",role=video]
 
 - ^────^

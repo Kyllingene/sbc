@@ -7,3 +7,19 @@ description: A collection of lessons from Spokane Bible Church.
 
 == link:old-testament[Old Testament]
 == link:new-testament[New Testament]
+
+'''
+
+== link:special/basics[The Basics]
+== link:special/framework[Biblical Framework]
+== link:https://youtu.be/Al8G7kg5Wtc[Angelology (video)]
+== link:special/baptism[Baptism]
+== link:special/prophecy[Bible Prophecy]
+== link:special/cities[Biblical Cities]
+== link:special/christmas[Christmas]
+== link:special/covid[Coronavirus]
+== link:https://youtu.be/WcAYMbTTvuE[Critical Race Theory (video)]
+== link:special/dispensationalism[Dispensationalism]
+== link:special/easter[Easter]
+== link:special/soteriology[Soteriology]
+== link:special/pneumatology[Pneumatology]

@@ -1,0 +1,18 @@
+---
+title: Soteriology
+description: A collection of lessons on soteriology, the study of Christian salvation.
+---
+
+= #Soteriology#
+
+== Videos
+
+- link:https://youtu.be/GAgBY61NokQ["Soteriology 1",role=video]
+
+- ^────^
+- link:https://youtu.be/wiT7_KpPEUg["Soteriology 2",role=video]
+
+- ^────^
+- link:https://youtu.be/tZ3WKH1NuxI["Soteriology 3",role=video]
+
+- ^────^

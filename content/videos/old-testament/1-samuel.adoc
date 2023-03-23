@@ -6,30 +6,30 @@ description: A collection of lessons pertaining to the book of 1 Samuel.
 = The Book of #1 Samuel#
 
 == Videos
-- link:https://www.youtube.com/watch?v=NJy6cqvprUE["I Samuel 01: Introduction and Background",role=video]
+- link:https://youtu.be/NJy6cqvprUE["I Samuel 01: Introduction and Background",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=VUkgsCemTEQ["I Samuel 02: Introduction and Background",role=video]
+- link:https://youtu.be/VUkgsCemTEQ["I Samuel 02: Introduction and Background",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=SDGui8ocdMU["I Samuel 03: 1 Samuel 1:1-2:11 Hannah’s Answered Prayer",role=video]
+- link:https://youtu.be/SDGui8ocdMU["I Samuel 03: 1 Samuel 1:1-2:11 Hannah’s Answered Prayer",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=Pm38_97B3IU["I Samuel 04: 1 Samuel 2:12-36, Eli and Phinehas",role=video]
+- link:https://youtu.be/Pm38_97B3IU["I Samuel 04: 1 Samuel 2:12-36, Eli and Phinehas",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=weyRFEoLo5I["I Samuel 05: Samuel Called as a Prophet, 1 Samuel 3",role=video]
+- link:https://youtu.be/weyRFEoLo5I["I Samuel 05: Samuel Called as a Prophet, 1 Samuel 3",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=P2Qg1H6FHKY["I Samuel 06: The Glory Departed, 1 Samuel 4:1b-22",role=video]
+- link:https://youtu.be/P2Qg1H6FHKY["I Samuel 06: The Glory Departed, 1 Samuel 4:1b-22",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=0EeiXQ-uECg["I Samuel 07: The Ark’s Journey ,1 Samuel 5-6",role=video]
+- link:https://youtu.be/0EeiXQ-uECg["I Samuel 07: The Ark’s Journey ,1 Samuel 5-6",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=an3FhDYRiSc["I Samuel 08: Samuel Judges Israel",role=video]
+- link:https://youtu.be/an3FhDYRiSc["I Samuel 08: Samuel Judges Israel",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=XnP_iewFzN0["I Samuel 09: The People Ask for a King, 1 Samuel 8",role=video]
+- link:https://youtu.be/XnP_iewFzN0["I Samuel 09: The People Ask for a King, 1 Samuel 8",role=video]
 
 - ^────^

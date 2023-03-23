@@ -6,45 +6,45 @@ description: A collection of lessons pertaining to the book of Joshua.
 = The Book of #Joshua#
 
 == Videos
-- link:https://www.youtube.com/watch?v=oWoY915tI8I["Joshua 01, Background",role=video]
+- link:https://youtu.be/oWoY915tI8I["Joshua 01, Background",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=YxFrv27gctM["Joshua 02, Ch 1 &#8211; Joshua the New Leader",role=video]
+- link:https://youtu.be/YxFrv27gctM["Joshua 02, Ch 1 &#8211; Joshua the New Leader",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=HpowQxi5-rw["Joshua 03, Rahab Hides the Spies",role=video]
+- link:https://youtu.be/HpowQxi5-rw["Joshua 03, Rahab Hides the Spies",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=7Oi3_dF67ZU["Joshua 04, Ch 3-4 &#8211; Crossing the Jordan",role=video]
+- link:https://youtu.be/7Oi3_dF67ZU["Joshua 04, Ch 3-4 &#8211; Crossing the Jordan",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=vUAJz3HBkVk["Joshua 05, Ch 5-6 &#8211; The Conquest of Jericho",role=video]
+- link:https://youtu.be/vUAJz3HBkVk["Joshua 05, Ch 5-6 &#8211; The Conquest of Jericho",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=gmSa5v6ZThU["Joshua 06, Defeat at Ai",role=video]
+- link:https://youtu.be/gmSa5v6ZThU["Joshua 06, Defeat at Ai",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=2SVnCeOxGyQ["Joshua 07, Victory at Ai",role=video]
+- link:https://youtu.be/2SVnCeOxGyQ["Joshua 07, Victory at Ai",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=AD8C34lOdq0["Joshua 08, Deception of the Gibeonites",role=video]
+- link:https://youtu.be/AD8C34lOdq0["Joshua 08, Deception of the Gibeonites",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=a32a9Wvrhtk["Joshua 09, Attack on the Gibeonites",role=video]
+- link:https://youtu.be/a32a9Wvrhtk["Joshua 09, Attack on the Gibeonites",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=ynfLWGZ2WDM["Joshua 10, The Northern Alliance (Joshua 11-12)",role=video]
+- link:https://youtu.be/ynfLWGZ2WDM["Joshua 10, The Northern Alliance (Joshua 11-12)",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=K2x7m8Pwx7c["Joshua 11, The Settlement of the Land, 13-20",role=video]
+- link:https://youtu.be/K2x7m8Pwx7c["Joshua 11, The Settlement of the Land, 13-20",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=-ytebLZBbiQ["Joshua 12, The Need for Bible Teachers and Avoiding Civil War, 21-22",role=video]
+- link:https://youtu.be/-ytebLZBbiQ["Joshua 12, The Need for Bible Teachers and Avoiding Civil War, 21-22",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=U8ARPhN0O1Q["Joshua 13, Joshua&#8217;s Farewell and Covenant Renewal Ceremony (Joshua 23-24)",role=video]
+- link:https://youtu.be/U8ARPhN0O1Q["Joshua 13, Joshua&#8217;s Farewell and Covenant Renewal Ceremony (Joshua 23-24)",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=cbuq7h-nCvY["Joshua 15, A Devotional Walk Through Joshua",role=video]
+- link:https://youtu.be/cbuq7h-nCvY["Joshua 15, A Devotional Walk Through Joshua",role=video]
 
 - ^────^

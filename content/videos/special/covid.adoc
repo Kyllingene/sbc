@@ -1,0 +1,15 @@
+---
+title: Coronavirus - Spokane Bible Church
+description: A collection of videos detailing COVID-19 and pestilence in general from a Christian worldview.
+---
+
+= #Coronavirus#
+
+== Videos
+
+- link:https://youtu.be/fnTc-48Xi1M["Viruses and Coronavirus",role=video]
+
+- ^────^
+- link:https://youtu.be/19Nu-wQAawY["Promises of God in Crisis (Coronavirus)",role=video]
+
+- ^────^

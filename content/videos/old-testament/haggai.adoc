@@ -6,9 +6,9 @@ description: A collection of lessons pertaining to the book of Haggai.
 = The Book of #Haggai#
 
 == Videos
-- link:https://www.youtube.com/watch?v=p73D4jrMJLo["Haggai Ch 2",role=video]
+- link:https://youtu.be/p73D4jrMJLo["Haggai Ch 2",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=eWfSGcaIo_M["Haggai Conclusion",role=video]
+- link:https://youtu.be/eWfSGcaIo_M["Haggai Conclusion",role=video]
 
 - ^────^

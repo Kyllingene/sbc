@@ -1,0 +1,84 @@
+---
+title: Dispensationalism - Spokane Bible Church
+description: A collection of lessons on the doctrine of dispensationalism, the doctrine of our church.
+---
+
+= #Dispensationalism#
+
+== Videos
+
+- link:https://youtu.be/ZP4vbM-VA_M?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 01, The Problem of Definition",role=video]
+
+- ^────^
+- link:https://youtu.be/ZHZKZHFPUOY?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 02, What is a Dispensation?",role=video]
+
+- ^────^
+- link:https://youtu.be/IR9_z7iDMfc?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 03, Progressive Revelation and Things that Differ",role=video]
+
+- ^────^
+- link:https://youtu.be/6gJFgwO2xgc?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 04, Things that Don't Differ and the Dispensations",role=video]
+
+- ^────^
+- link:https://youtu.be/3NSMrxhyAxc?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 05, Covenants and Dispensations",role=video]
+
+- ^────^
+- link:https://youtu.be/SNwOXU_1TP4?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 06, The Distinction of Israel",role=video]
+
+- ^────^
+- link:https://youtu.be/kRBF1BHylTI?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 07, The Church as a Distinct Organism",role=video]
+
+- ^────^
+- link:https://youtu.be/qIh-KPckUyc?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 08, The Covenants",role=video]
+
+- ^────^
+- link:https://youtu.be/JHf9w3eNGlg?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 09, Literal or Contextual Interpretation?",role=video]
+
+- ^────^
+- link:https://youtu.be/ZU26Op_99K8?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 10, Criticisms",role=video]
+
+- ^────^
+- link:https://youtu.be/Uhz3eTla6Jc?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 11, Interpretation and Covenant Theology",role=video]
+
+- ^────^
+- link:https://youtu.be/ktogCR-IJIw?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 12, How the NT Authors Quote the OT",role=video]
+
+- ^────^
+- link:https://youtu.be/Wl4pCPCWvLg?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 13, A Distinct Future for Israel",role=video]
+
+- ^────^
+- link:https://youtu.be/2Kr5fWZ0VeA?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 14, A Distinct Future for Israel Continued",role=video]
+
+- ^────^
+- link:https://youtu.be/2Qxu8WVxv1s?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 15, Kingdom, Covenants, Salvation, Christ",role=video]
+
+- ^────^
+- link:https://youtu.be/fXiBYefzLmI?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 16, Premillenial and Pre-Trib Rapture Statements Before Darby",role=video]
+
+- ^────^
+- link:https://youtu.be/hchIggrCmBg?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 17, Review Dispensations and Dispensationalism",role=video]
+
+- ^────^
+- link:https://youtu.be/D8gFvWR6dKs?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 18, Review Dispensationalism",role=video]
+
+- ^────^
+- link:https://youtu.be/ES3Tf9b2hDE?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 19, Review Dispensationalism",role=video]
+
+- ^────^
+- link:https://youtu.be/uOnSXpAumx4?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 20, John Nelson Darby and the Modern History of Dispensationalism",role=video]
+
+- ^────^
+- link:https://youtu.be/GQk-16msq38?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 21, Does Dispensationalism Teach More Than One Way Of Salvation",role=video]
+
+- ^────^
+- link:https://youtu.be/YfiLjQvPcAc?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 22, Progressive Dispensationalism",role=video]
+
+- ^────^
+- link:https://youtu.be/JVXOm_qGQMk?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 23, Progressive Dispensationalism Continued",role=video]
+
+- ^────^
+- link:https://youtu.be/8JvgXLh_hyo?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 24, The New Covenant",role=video]
+
+- ^────^
+- link:https://youtu.be/4Zd3Iom4UTA?list=PLtV_KhFVZ_wbuJC12d3iFDVGmZKlev9Em["Dispensationalism 25, Dispensational Views of the New Covenant",role=video]
+
+- ^────^

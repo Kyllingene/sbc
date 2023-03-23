@@ -5,19 +5,19 @@ description: Contact information for Spokane Bible Church, a local nondenominati
 
 = Contact Information
 
-== Pastor-Teacher Jeremy Thomas
+[.big]#Pastor-Teacher Jeremy Thomas#
 
 mailto:jtstj@protonmail.com[]
 
 ---
 
-== SBC Prayer Requests
+[.big]#SBC Prayer Requests#
 
 mailto:spokanebiblechurchprayer@gmail.com[]
 
 ---
 
-== Spokane Bible Church
+[.big]#Spokane Bible Church#
 
 mailto:spokanebiblechurch@gmail.com[]
 

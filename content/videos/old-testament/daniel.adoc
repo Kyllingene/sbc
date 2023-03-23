@@ -6,66 +6,66 @@ description: A collection of lessons pertaining to the book of Daniel.
 = The Book of #Daniel#
 
 == Videos
-- link:https://www.youtube.com/watch?v=DTDz-Muu49g["Archaeology of Daniel",role=video]
+- link:https://youtu.be/DTDz-Muu49g["Archaeology of Daniel",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=HtVJDa5h4EM["Daniel 01, Introduction",role=video]
+- link:https://youtu.be/HtVJDa5h4EM["Daniel 01, Introduction",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=qFo2Q_Bf6IU["Daniel 02, Background",role=video]
+- link:https://youtu.be/qFo2Q_Bf6IU["Daniel 02, Background",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=o5ef0K4Rzbc["Daniel 03, Nebuchadnezzar&#8217;s Education Program, Daniel 1:1-7",role=video]
+- link:https://youtu.be/o5ef0K4Rzbc["Daniel 03, Nebuchadnezzar&#8217;s Education Program, Daniel 1:1-7",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=0mDZFCsZaY0["Daniel 04, The Righteous Shall Live by Faith, Daniel 1:8-21",role=video]
+- link:https://youtu.be/0mDZFCsZaY0["Daniel 04, The Righteous Shall Live by Faith, Daniel 1:8-21",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=TrRBD4fUxpg["Daniel 05, Nebuchadnezzar&#8217;s Dreams, Daniel 2:1-23",role=video]
+- link:https://youtu.be/TrRBD4fUxpg["Daniel 05, Nebuchadnezzar&#8217;s Dreams, Daniel 2:1-23",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=5u5eB79xU8Y["Daniel 09, The Great Feast",role=video]
+- link:https://youtu.be/5u5eB79xU8Y["Daniel 09, The Great Feast",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=ciQjZL6dxVM["Daniel 12, The Lion&#8217;s Den",role=video]
+- link:https://youtu.be/ciQjZL6dxVM["Daniel 12, The Lion&#8217;s Den",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=-kR0F7RkDUw["Daniel 13, The Four Beasts and the Son of Man",role=video]
+- link:https://youtu.be/-kR0F7RkDUw["Daniel 13, The Four Beasts and the Son of Man",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=DqllUB-Z9r4["Daniel 15, Review Daniel 1-2",role=video]
+- link:https://youtu.be/DqllUB-Z9r4["Daniel 15, Review Daniel 1-2",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=LE-V4Sh3_g8["Daniel 15, The Fourth Beast, Dan 7:19-28",role=video]
+- link:https://youtu.be/LE-V4Sh3_g8["Daniel 15, The Fourth Beast, Dan 7:19-28",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=Qe3oX6AsSNI["Daniel 16, Review, Dan 3-5",role=video]
+- link:https://youtu.be/Qe3oX6AsSNI["Daniel 16, Review, Dan 3-5",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=g0LuorsWSdU["Daniel 17, Review, Dan 6-7",role=video]
+- link:https://youtu.be/g0LuorsWSdU["Daniel 17, Review, Dan 6-7",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=BfEggOt5P6Q["Daniel 19, Daniel&#8217;s Prayer of Confession. 9:1-23",role=video]
+- link:https://youtu.be/BfEggOt5P6Q["Daniel 19, Daniel&#8217;s Prayer of Confession. 9:1-23",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=VjAJp_PdjFw["Daniel 20, The Seventy Sevens, 9:24-27",role=video]
+- link:https://youtu.be/VjAJp_PdjFw["Daniel 20, The Seventy Sevens, 9:24-27",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=yx9YTexXpSs["Daniel 21, Angelic Conflict Over Nations, 10:1-11:1",role=video]
+- link:https://youtu.be/yx9YTexXpSs["Daniel 21, Angelic Conflict Over Nations, 10:1-11:1",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=lmsX9pjSsOM["Daniel 22, Persians and Greeks, 11.2-20",role=video]
+- link:https://youtu.be/lmsX9pjSsOM["Daniel 22, Persians and Greeks, 11.2-20",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=11mV0hpoIEE["Daniel 24, The Anti-Christ",role=video]
+- link:https://youtu.be/11mV0hpoIEE["Daniel 24, The Anti-Christ",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=tziHKUNOZdY["Daniel 25, The End Time, 12:1-13",role=video]
+- link:https://youtu.be/tziHKUNOZdY["Daniel 25, The End Time, 12:1-13",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=I4A9GCelOCQ["Daniel 26, Review Daniel, Q &amp; A",role=video]
+- link:https://youtu.be/I4A9GCelOCQ["Daniel 26, Review Daniel, Q &amp; A",role=video]
 
 - ^────^
-- link:https://www.youtube.com/watch?v=khVVUQ1AP5s["Daniel 27, Chapter Summaries",role=video]
+- link:https://youtu.be/khVVUQ1AP5s["Daniel 27, Chapter Summaries",role=video]
 
 - ^────^
