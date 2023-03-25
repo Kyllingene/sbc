@@ -165,6 +165,34 @@ button {
   border: 2px solid var(--text-color);
 }
 
+footer {
+  width: 100%;
+  margin: 0;
+}
+
+footer * {
+  background-color: rgba(var(--accent), 4%);
+  border-radius: 1em;
+}
+
+div.footer {
+  display: inline-block;
+  text-align: center;
+  background-color: rgba(var(--accent), 15%);
+  width: 33%;
+}
+
+.quoteblock {
+  font-size: 1.3rem;
+  background-color: rgba(var(--accent), 5%);
+  border-radius: 1em;
+}
+
+.quoteblock * {
+  background-color: rgba(var(--accent), 2%);
+  border-radius: 1em;
+}
+
 .header {
   display: block;
   margin: 2em;
@@ -195,6 +223,15 @@ button {
   .nav li {
     display: block;
     padding-bottom: 1em;
+  }
+
+  div.footer {
+    display: block;
+    width: 100%;
+  }
+
+  footer * {
+    background-color: rgba(var(--accent), 0%);
   }
 
   button {
@@ -247,5 +284,9 @@ button {
     font-size: x-large;
     padding-bottom: 0.5em;
     line-height: 1.7em;
+  }
+
+  iframe {
+    width: 99%;
   }
 }
