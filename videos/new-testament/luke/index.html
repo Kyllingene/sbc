@@ -17,15 +17,29 @@
 </head>
 <body onload="setColors(getDark())">
   <div class="header">
-    <button id="darkmode" aria-label="Toggle dark mode" onclick="darkmode()"></button>
-    <nav>
-      <ul class="nav">
-        <li><a class="link" href="../../../">Home</a></li>
-        <li><a class="link" href="../../">Lessons</a></li>
-        <li><a class="link" href="../../../gospel/">Good News</a></li>
-        <li><a class="link" href="../../../contact/">Contact</a></li>
-      </ul>
-    </nav>
+    <a class="header-dropdown">Menu ▼</a>
+    <div class="header-content">
+      <button id="darkmode" aria-label="Toggle dark mode" onclick="darkmode()"></button>
+      <nav>
+        <ul class="nav">
+          <li><a class="link" href="../../../">Home</a></li>
+          <li><a class="link" href="../../">Lessons</a></li>
+          <li><a class="link" href="../../../gospel/">Good News</a></li>
+          <li><a class="link" href="../../../about/contact/">Contact</a></li>
+          <a class="link" href="../../../about/connect/">Connect</a>
+          <li>
+            <div class="dropdown">
+              <a class="link dropdown-hover">About ▼</a>
+              <div class="dropdown-content">
+                <a class="link" href="../../../about/pastor/">Pastor</a>
+                <a class="link" href="../../../about/history/">History</a>
+                <a class="link" href="../../../about/doctrine/">Doctrine</a>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </nav>
+    </div>
   </div>
   <div id="main">
     <h1>The Book of <mark>Luke</mark></h1>
