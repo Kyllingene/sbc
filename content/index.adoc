@@ -48,9 +48,4 @@ Pastor Jeremy’s link:https://www.youtube.com/@Dispensational_Free_Grace[sermon
 // google maps embed
 pass:[<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10731.72985181767!2d-117.4544753!3d47.7439651!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbc34e2d3b5c80a38!2sSpokane%20Bible%20Church!5e0!3m2!1sen!2sus!4v1676968734484!5m2!1sen!2sus" style="border: 0px none;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="95%" height="450"></iframe>]
 
-=== Contact us! Fill out the form below, or send us an email.
-
-==== You can also find the form link:https://forms.gle/8b1EucJPXUYbwTRF7[here.]
-
-// google forms embed
-pass:[<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDKmWkPnELHMheggl-12sF6mxLEJv_1URO1xrky2B_oD377A/viewform?embedded=true" width="640" height="380" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>]
+=== Contact us! Fill out link:https://forms.gle/8b1EucJPXUYbwTRF7[this form], or send us an email.
