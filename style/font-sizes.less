@@ -1,0 +1,36 @@
+@import 'headers';
+
+@sp: 1.2px;
+@sbig: (@sp + 0.3);
+
+.fsize(@font-size) {
+    font-size: @font-size;
+    
+    @media screen and (max-width: 480px) {
+        font-size: (@font-size + 0.5rem);
+    }
+}
+
+p {
+    .fsize(@sp);
+}
+
+.big, sup {
+    .fsize((@sp + 0.7rem));
+}
+
+a.video {
+    .fsize(@sbig);
+}
+
+.quoteblock {
+    .fsize((@sp + 0.1rem));
+}
+
+.header {
+    .fsize(@sbig);
+}
+
+table {
+    .fsize(@p);
+}
