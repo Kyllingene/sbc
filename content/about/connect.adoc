@@ -1,0 +1,23 @@
+---
+title: Connect - Spokane Bible Church
+description: Ways to connect with us at Spokane Bible Church.
+---
+
+= #Connect# with Us
+
+== Ways to #Get Connected#
+
+* Women Bible Study – #*Mondays 6 pm*#
+
+* Youth Group – #*Tuesdays 6 pm*#
+
+* Bible Study – #*Wednesdays 7 pm*#
+
+* Apologetics – #*Thursdays*#
+
+=== Contact us! Fill out the form below, or send us an email.
+
+==== You can also find the form link:https://forms.gle/8b1EucJPXUYbwTRF7[here.]
+
+// google forms embed
+pass:[<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDKmWkPnELHMheggl-12sF6mxLEJv_1URO1xrky2B_oD377A/viewform?embedded=true" width="640" height="780" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>]

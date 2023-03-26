@@ -1,16 +1,17 @@
 ---
 title: Spokane Bible Church
-description: A Local Grace-Oriented, Bible Teaching, Dispensational, Independent, Evangelical Christian, Nondenominational Church.
+description: A Spokane-area Grace-Oriented, Bible Teaching, Dispensational, Independent, Evangelical Christian, Nondenominational Church. Join us!
 ---
 
 = Welcome to #Spokane Bible Church!#
 
-[.big]#A Local **Grace-Oriented, Bible Teaching, Dispensational, Independent, Evangelical Christian, Nondenominational Church**#
+==== A Local Grace-Oriented, Bible Teaching, Dispensational, Independent, Evangelical Christian, Nondenominational Church
 
 '''
 
 ****
 
+// these discrete's are necessary to put headers in a block like this
 [discrete]
 == Local Weekly Worship Services
 
@@ -25,7 +26,7 @@ description: A Local Grace-Oriented, Bible Teaching, Dispensational, Independent
 [discrete]
 == Come Visit Us!
 [discrete]
-=== https://maps.google.com/maps?ll=47.743965,-117.454475&z=14&t=m&hl=en&gl=US&mapclient=embed&cid=13561713776835168824[9419 N Five Mile Rd, Spokane, WA. 99208]
+==== https://maps.google.com/maps?ll=47.743965,-117.454475&z=14&t=m&hl=en&gl=US&mapclient=embed&cid=13561713776835168824[9419 N Five Mile Rd, Spokane, WA. 99208]
 
 ****
 
@@ -34,15 +35,22 @@ description: A Local Grace-Oriented, Bible Teaching, Dispensational, Independent
 [quote,Ephesians 4:12]
 "For the equipping of the saints..."
 
-#Spokane Bible Church# is an evangelical Christian, dispensational, nondenominational church with a passion for solid *expositional Bible teaching* (often which consists of verse-by-verse teaching through a book in the Bible), *equipping the believers* through discipleship training, and *evangelizing the lost* with a clear explanation of the *Gospel of Jesus Christ*.
+#Spokane Bible Church# is an evangelical Christian, dispensational, nondenominational church with a passion for solid *expositional Bible teaching* (which often consists of verse-by-verse teaching through a book in the Bible), *equipping the believers* through discipleship training, and *evangelizing the lost* with a clear explanation of the *Gospel of Jesus Christ*.
 
-*See what we believe and teach.* Check out our link:doctrine[doctrine] or link:videos[lessons].
+*See what we believe and teach.* Check out our link:about/doctrine[doctrine] or link:videos[lessons].
 
 We have made it our mission to stand firm in Christ in the midst of a world gone crazy, keeping our focus on listening to the Word and learning to trust the Lord, which results in obedience to Him who is our ever-present hope and help in every time of need!
 
 Pastor Jeremy’s link:https://www.youtube.com/@Dispensational_Free_Grace[sermons] will take you on a verse-by-verse journey through Scripture, giving you a deeper appreciation for God’s Holy Bible, preserved for us through the ages, that we might be trained in righteousness and equipped for every good work *(2 Timothy 3:16-17)*.
 
-[discrete]
-=== We would love to meet YOU in person, but feel free to learn more about US before your visit. We hope to meet you soon!
+==== We would love to meet YOU in person, but feel free to learn more about US before your visit. We hope to meet you soon!
 
-pass:[<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10731.72985181767!2d-117.4544753!3d47.7439651!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbc34e2d3b5c80a38!2sSpokane%20Bible%20Church!5e0!3m2!1sen!2sus!4v1676968734484!5m2!1sen!2sus" style="border: 0px none;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="600" height="450"></iframe>]
+// google maps embed
+pass:[<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10731.72985181767!2d-117.4544753!3d47.7439651!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbc34e2d3b5c80a38!2sSpokane%20Bible%20Church!5e0!3m2!1sen!2sus!4v1676968734484!5m2!1sen!2sus" style="border: 0px none;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="95%" height="450"></iframe>]
+
+=== Contact us! Fill out the form below, or send us an email.
+
+==== You can also find the form link:https://forms.gle/8b1EucJPXUYbwTRF7[here.]
+
+// google forms embed
+pass:[<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDKmWkPnELHMheggl-12sF6mxLEJv_1URO1xrky2B_oD377A/viewform?embedded=true" width="640" height="380" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>]
