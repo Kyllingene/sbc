@@ -1,0 +1,45 @@
+@s1: 3rem;
+@s2: (@s1 - 1rem);
+@s3: (@s2 - 1rem);
+@s4: (@s3 - 1rem);
+@s5: (@s4 - 1rem);
+@s6: (@s5 - 1rem);
+
+.fsize(@font-size) {
+    font-size: @font-size;
+    
+    @media screen and (max-width: 480px) {
+        font-size: (@font-size + 0.5rem);
+    }
+}
+
+h1 {
+    font-weight: 800;
+    
+    margin: 0;
+    margin-bottom: 1em;
+    
+    text-decoration: underline;
+    
+    .fsize(@s1);
+}
+
+h2 {
+    .fsize(@s2);
+}
+
+h3 {
+    .fsize(@s3);
+}
+
+h4 {
+    .fsize(@s4);
+}
+
+h5 {
+    .fsize(@s5);
+}
+
+h6 {
+    .fsize(@s6);
+}
