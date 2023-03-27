@@ -276,7 +276,6 @@ iframe {
 
 @media screen and (max-width: 800px) {
   .nav li {
-    display: block;
     padding-bottom: 1em;
     margin: 0em;
   }
@@ -287,16 +286,6 @@ iframe {
 
   iframe {
     width: 99%;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  html {
-    font-size: small;
-  }
-
-  #main {
-    max-width: 95%;
   }
 
   .header-dropdown {
@@ -310,6 +299,16 @@ iframe {
   .header:hover .header-content {
     display: block;
     margin-top: 1em;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  html {
+    font-size: small;
+  }
+
+  #main {
+    max-width: 95%;
   }
 
   .dropdown-content {
