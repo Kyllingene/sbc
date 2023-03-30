@@ -21,9 +21,15 @@ mailto:spokanebiblechurchprayer@gmail.com[]
 
 mailto:spokanebiblechurch@gmail.com[]
 
-link:https://maps.google.com/maps?ll=47.743965,-117.454475&z=14&t=m&hl=en&gl=US&mapclient=embed&cid=13561713776835168824[9419 N Five Mile Rd, Spokane, WA. 99208]
+https://maps.google.com/maps?ll=47.743965,-117.454475&z=14&t=m&hl=en&gl=US&mapclient=embed&cid=13561713776835168824[9419 N Five Mile Rd, Spokane, WA. 99208]
 
 // this is required, since `tel:5094679206[(509) 467-9206] doesn't work`
 pass:[<a href="tel:5094679206">(509) 467-9206</a>]
 
-link:https://forms.gle/8b1EucJPXUYbwTRF7["Contact form",role=video]
+https://forms.gle/8b1EucJPXUYbwTRF7["Contact form",role=video]
+
+---
+
+[.big]#Website#
+
+mailto:josiah.t@outlook.com[]
