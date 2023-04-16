@@ -193,7 +193,7 @@ footer {
 }
 
 footer * {
-  background-color: rgba(var(--accent), 4%);
+  background-color: rgba(var(--accent), 0.5%);
   border-radius: 1em;
 }
 

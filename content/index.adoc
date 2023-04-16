@@ -35,7 +35,7 @@ description: A Spokane-area Grace-Oriented, Bible Teaching, Dispensational, Inde
 [quote,Ephesians 4:12]
 "For the equipping of the saints..."
 
-#Spokane Bible Church# is an evangelical Christian, dispensational, nondenominational church with a passion for solid *expositional Bible teaching* (which often consists of verse-by-verse teaching through a book in the Bible), *equipping the believers* through discipleship training, and *evangelizing the lost* with a clear explanation of the *Gospel of Jesus Christ*.
+#Spokane Bible Church# is an evangelical Christian, dispensational, nondenominational church with a passion for solid *expositional Bible teaching* (which often consists of verse-by-verse teaching through a book in the Bible), *equipping the believers* through discipleship training, and *evangelizing the lost* with a clear explanation of the *link:gospel[Gospel of Jesus Christ]*.
 
 *See what we believe and teach.* Check out our link:about/doctrine[doctrine] or link:videos[lessons].
 
