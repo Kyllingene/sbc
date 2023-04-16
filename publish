@@ -6,7 +6,7 @@ set -ex
 
 nanoc
 
-git add *
+# git add *
 git commit -m "$1"
 git push
 
