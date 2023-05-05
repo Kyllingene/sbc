@@ -193,11 +193,7 @@ footer {
 }
 
 footer * {
-<<<<<<< HEAD
-  background-color: rgba(var(--accent), 4%);
-=======
   background-color: rgba(var(--accent), 0.5%);
->>>>>>> 8c50d33 (Setting up dev on new installation)
   border-radius: 1em;
 }
 
@@ -237,11 +233,7 @@ iframe {
   z-index: 1;
 
   padding-bottom: 3px;
-<<<<<<< HEAD
-  width: 100%;
-=======
   width: 7em;
->>>>>>> 8c50d33 (Setting up dev on new installation)
 
   background-color: var(--link-background);
   border-radius: 10%;
@@ -323,13 +315,6 @@ iframe {
     margin-top: 0.7em;
   }
 
-<<<<<<< HEAD
-  footer * {
-    background-color: rgba(var(--accent), 0%);
-  }
-
-=======
->>>>>>> 8c50d33 (Setting up dev on new installation)
   button {
     width: 6em;
     height: 6em;
@@ -380,8 +365,6 @@ iframe {
     padding-bottom: 0.5em;
     line-height: 1.7em;
   }
-<<<<<<< HEAD
-=======
 
   footer * {
     background-color: rgba(var(--accent), 0%);
@@ -391,5 +374,4 @@ iframe {
   footer .video {
     font-size: medium;
   }
->>>>>>> 8c50d33 (Setting up dev on new installation)
 }
