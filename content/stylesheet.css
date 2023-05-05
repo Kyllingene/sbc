@@ -233,7 +233,7 @@ iframe {
   z-index: 1;
 
   padding-bottom: 3px;
-  width: 100%;
+  width: 7em;
 
   background-color: var(--link-background);
   border-radius: 10%;
@@ -315,10 +315,6 @@ iframe {
     margin-top: 0.7em;
   }
 
-  footer * {
-    background-color: rgba(var(--accent), 0%);
-  }
-
   button {
     width: 6em;
     height: 6em;
@@ -368,5 +364,14 @@ iframe {
     font-size: x-large;
     padding-bottom: 0.5em;
     line-height: 1.7em;
+  }
+
+  footer * {
+    background-color: rgba(var(--accent), 0%);
+    font-size: medium;
+  }
+
+  footer .video {
+    font-size: medium;
   }
 }

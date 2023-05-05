@@ -1,3 +1,4 @@
 tmp/
 output/
 .devcontainer
+crash.log
