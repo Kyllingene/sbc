@@ -44,8 +44,7 @@ Bring cash or check and drop it off in our box inside.
 [discrete]
 === Online
 
-[discrete]
-==== Click to give.
+Click to give.
 
 link:https://www.paypal.com/donate/?hosted_button_id=TMNJ96CRCCL96[PayPal]
 
