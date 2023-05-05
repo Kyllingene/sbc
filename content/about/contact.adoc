@@ -3,7 +3,7 @@ title: Contact - Spokane Bible Church
 description: Contact information for Spokane Bible Church, a local nondenominational church.
 ---
 
-= Contact Information
+= #Contact Information#
 
 [.big]#Pastor-Teacher Jeremy Thomas#
 

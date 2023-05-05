@@ -1,12 +1,16 @@
 #!/bin/bash
-set -ex
+set -x
 
 # Compile, Add+commit ALL changes in the working tree+output, then push it all.
 # !!! STASH UNPUBLISHABLE CHANGES BEFOREHAND !!!
 
 nanoc
 
-# git add *
+git add *
+
+# Set this now; otherwise, ignored files causes the script to fail
+set -e
+
 git commit -m "$1"
 git push
 
