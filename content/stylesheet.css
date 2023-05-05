@@ -211,7 +211,7 @@ div.footer {
 }
 
 .quoteblock * {
-  background-color: rgba(var(--accent), 2%);
+  background-color: rgba(var(--accent), 0.4%);
   border-radius: 1em;
 }
 

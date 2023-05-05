@@ -39,9 +39,7 @@ for god loves a cheerful giver.”
 
 Bring cash or check and drop it off in our box inside.
 
-****
-
-****
+***
 
 [discrete]
 === Online
@@ -53,9 +51,7 @@ link:https://www.paypal.com/donate/?hosted_button_id=TMNJ96CRCCL96[PayPal]
 
 link:https://musicteamsbc.churchtrac.com/give[Churchtrac]
 
-****
-
-****
+***
 
 [discrete]
 === Mail
