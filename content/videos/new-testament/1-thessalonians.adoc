@@ -6,3 +6,6 @@ description: A collection of lessons pertaining to the book of 1 Thessalonians.
 = The Book of #1 Thessalonians#
 
 == Videos
+
+== Documents
+- link:/docs/1-Thessalonians-Introduction-Background-and-Argument.pdf["1 Thessalonians Background, Introduction and Argument (PDF)",role=video]

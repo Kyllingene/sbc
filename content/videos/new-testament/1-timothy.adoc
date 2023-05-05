@@ -6,3 +6,6 @@ description: A collection of lessons pertaining to the book of 1 Timothy.
 = The Book of #1 Timothy#
 
 == Videos
+
+== Documents
+- link:/docs/1-Timothy-Introduction-Background-and-Argument.pdf["1 Timothy Background, Introduction and Argument (PDF)",role=video]

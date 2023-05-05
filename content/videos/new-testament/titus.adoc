@@ -16,3 +16,6 @@ description: A collection of lessons pertaining to the book of Titus.
 - link:https://youtu.be/BogvAxbhURM["Titus 04: Grace, Upright Lives, Rapture, Good Deeds (2:1-15)",role=video]
 
 - ^────^
+
+== Documents
+- link:/docs/Titus-Introduction-Background-and-Argument.pdf["Titus Background, Introduction and Argument (PDF)",role=video]

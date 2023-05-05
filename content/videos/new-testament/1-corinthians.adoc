@@ -6,3 +6,6 @@ description: A collection of lessons pertaining to the book of 1 Corinthians.
 = The Book of #1 Corinthians#
 
 == Videos
+
+== Documents
+- link:/docs/1-Corinthians-Introduction-Background-and-Argument.pdf["1 Corinthians Background, Introduction and Argument (PDF)",role=video]

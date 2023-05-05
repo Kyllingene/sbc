@@ -6,3 +6,6 @@ description: A collection of lessons pertaining to the book of 2 Thessalonians.
 = The Book of #2 Thessalonians#
 
 == Videos
+
+== Documents
+- link:/docs/2-Thessalonians-Introduction-Background-and-Argument.pdf["2 Thessalonians Background, Introduction and Argument (PDF)",role=video]

@@ -28,3 +28,6 @@ description: A collection of lessons pertaining to the book of Galatians.
 - link:https://youtu.be/-Yww_X91w6Y["Galatians 06 Paul&#8217;s Argument for Freedom Cont. 4:1-20",role=video]
 
 - ^────^
+
+== Documents
+- link:/docs/Galatians-Introduction-Background-and-Argument.pdf["Galatians Background, Introduction and Argument (PDF)",role=video]

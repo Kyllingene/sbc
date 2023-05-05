@@ -60,4 +60,4 @@ description: A collection of lessons pertaining to the book of Acts.
 - ^────^
 
 == Documents
-- link:/docs/Acts-Introduction-Background-Argument.pdf["Acts Background, Introduction and Argument (PDF)",role=video]
+- link:/docs/Acts-Introduction-Background-and-Argument.pdf["Acts Background, Introduction and Argument (PDF)",role=video]

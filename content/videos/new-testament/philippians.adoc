@@ -6,3 +6,6 @@ description: A collection of lessons pertaining to the book of Philippians.
 = The Book of #Philippians#
 
 == Videos
+
+== Documents
+- link:/docs/Philippians-Introduction-Background-and-Argument.pdf["Philippians Background, Introduction and Argument (PDF)",role=video]

@@ -6,3 +6,6 @@ description: A collection of lessons pertaining to the book of 2 Timothy.
 = The Book of #2 Timothy#
 
 == Videos
+
+== Documents
+- link:/docs/2-Timothy-Introduction-Background-and-Argument.pdf["2 Timothy Background, Introduction and Argument (PDF)",role=video]

@@ -10,3 +10,6 @@ description: A collection of lessons pertaining to the book of 2 Corinthians.
 - link:https://youtu.be/X3uEzk5Efg0["I Corinthians 2:6-3:23, God&#8217;s Wisdom, Man&#8217;s Wisdom",role=video]
 
 - ^────^
+
+== Documents
+- link:/docs/2-Corinthians-Introduction-Background-and-Argument.pdf["2 Corinthians Background, Introduction and Argument (PDF)",role=video]

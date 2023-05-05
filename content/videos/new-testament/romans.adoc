@@ -58,3 +58,6 @@ description: A collection of lessons pertaining to the book of Romans.
 - link:https://youtu.be/1ZpiC1gMQVg["Acts 17: The First Missionary Journey: Iconium, Lystra, Derbe (Acts 14:1-28)",role=video]
 
 - ^────^
+
+== Documents
+- link:/docs/Romans-Introduction-Background-and-Argument.pdf["Romans Background, Introduction and Argument (PDF)",role=video]

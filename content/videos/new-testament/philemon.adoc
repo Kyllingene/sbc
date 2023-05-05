@@ -6,3 +6,6 @@ description: A collection of lessons pertaining to the book of Philemon.
 = The Book of #Philemon#
 
 == Videos
+
+== Documents
+- link:/docs/Philemon-Introduction-Background-and-Argument.pdf["Philemon Background, Introduction and Argument (PDF)",role=video]

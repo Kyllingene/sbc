@@ -6,3 +6,6 @@ description: A collection of lessons pertaining to the book of Colossians.
 = The Book of #Colossians#
 
 == Videos
+
+== Documents
+- link:/docs/Colossians-Introduction-Background-and-Argument.pdf["Colossians Background, Introduction and Argument (PDF)",role=video]
